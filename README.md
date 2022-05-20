@@ -1,4 +1,4 @@
-# Offline Coding Task – Sponsored Search Auctions
+# Offline Coding Task – Sponsored Search Auctions 
 Highest bidder wins the auction
 
 ## Preliminaries and rules:
